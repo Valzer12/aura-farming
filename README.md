@@ -80,9 +80,9 @@ Pemutar Video ASCII bekerja melalui beberapa langkah utama:
 ascii-video-player/
 ├── ascii_video_player.py  # Skrip utama
 ├── requirements.txt       # Dependensi proyek
-├── video.mp4              # File video default
-├── shot.png               # Tangkapan layar pratinjau 1
+├── Shot.png               # Tangkapan layar pratinjau 1
 ├── shot1.png              # Tangkapan layar pratinjau 2
+├── video.mp4              # File video default
 └── ascii_frames/          # Folder untuk menyimpan frame ASCII (jika digunakan)
 ```
 
